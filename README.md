@@ -1,7 +1,6 @@
 **🏦 Loan Approval Prediction Using Logistic Regression (R)**
 
 This project applies a logistic regression model to predict whether a loan will be approved or rejected based on borrower and loan characteristics.
-## 🔗 View the Report
 
 ## 📊 View the Full Report
 
@@ -22,20 +21,20 @@ This is an end-to-end machine learning project built in **R**, covering:
   - Confusion matrix
   - ROC curve
   - AUC score
-- Final output written in **R Markdown**  
+- Final output written in **R Quarto**  
 - Deployed to GitHub for portfolio use
 **🧰 Tools & Packages**
 - `tidyverse`
 - `caret`
 - `pROC`
 - `car` (for VIF)
-- `knitr`, `rmarkdown`
+- `knitr`, `rquarto`
 **📁 File Structure**
 
 | File              | Description                                 |
 |-------------------|---------------------------------------------|
-| `loan_model.Rmd`  | Main R Markdown file with full analysis     |
-| `loan_model.html` | Rendered HTML report (can be opened in browser) |
+| `loan_model.qmd`  | Main R quarto file with full analysis       |
+| `loan_model.html` | Rendered HTML report                        |
 | `loan_data.csv`   | Cleaned dataset used for modeling           |
 📊 Dataset
 
@@ -72,9 +71,9 @@ An AUC of **0.954** indicates strong predictive ability and minimal misclassific
  🧑‍💻 Author
 
 **Kevin Kimurgor**  
-Aspiring Data Analyst & Machine Learning Enthusiast  
+Data Analyst & Machine Learning Enthusiast  
 📍 Nairobi, Kenya  
-💼 [LinkedIn](https://www.linkedin.com/) | 🧠 [Kaggle](https://www.kaggle.com/) 
+💼 [LinkedIn](https://www.linkedin.com/) | 
 📧 kimurgorkev@gmail.com
 
 ---
