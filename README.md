@@ -67,7 +67,7 @@ An AUC of **0.954** indicates strong predictive ability and minimal misclassific
 **Kevin Kimurgor**  
 Aspiring Data Analyst & Machine Learning Enthusiast  
 📍 Nairobi, Kenya  
-💼 [LinkedIn](https://www.linkedin.com/) | 🧠 [Kaggle](https://www.kaggle.com/) (optional)  
+💼 [LinkedIn](https://www.linkedin.com/) | 🧠 [Kaggle](https://www.kaggle.com/) 
 📧 kimurgorkev@gmail.com
 
 ---
