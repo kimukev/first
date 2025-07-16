@@ -1,6 +1,10 @@
 **🏦 Loan Approval Prediction Using Logistic Regression (R)**
 
 This project applies a logistic regression model to predict whether a loan will be approved or rejected based on borrower and loan characteristics.
+## 🔗 View the Report
+
+👉 [Click here to open the full HTML report](https://kimukev.github.io/loan-approval-logistic-regression/loan_model.html)
+
 
 **📌 Project Overview**
 
